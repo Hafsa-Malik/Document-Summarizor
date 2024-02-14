@@ -8,7 +8,7 @@ Summarize PDFs using open-source LLM `facebook/bart-large-cnn`
 
 ## How To Run
 
-To run the document summarizer app, you'll need to set up a virtual environment and install the necessary dependencies.
+To run the document summarizer app, you'll need to set up a virtual environment (optional) and install the necessary dependencies.
 
 1. Clone this repository:
 
