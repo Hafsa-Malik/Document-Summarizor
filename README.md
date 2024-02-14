@@ -13,7 +13,7 @@ To run the document summarizer app, you'll need to set up a virtual environment 
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/document-summarizer-app.git
+    git clone https://github.com/Hafsa-Malik/Document-Summarizor.git
     ```
 
 2. Navigate to the project directory:
