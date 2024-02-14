@@ -4,6 +4,8 @@ Summarize text documents using open-source LLM `facebook/bart-large-cnn`
 
 **Test:** https://huggingface.co/spaces/hafsamalik322/Document-Summarizer
 
+
+
 ## How To Run
 
 To run the document summarizer app, you'll need to set up a virtual environment and install the necessary dependencies.
