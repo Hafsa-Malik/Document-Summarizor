@@ -1,6 +1,6 @@
 # Document-Summarizor
 
-Summarize text documents using open-source LLM `facebook/bart-large-cnn`
+Summarize PDFs using open-source LLM `facebook/bart-large-cnn`
 
 **Test:** https://huggingface.co/spaces/hafsamalik322/Document-Summarizer
 
