@@ -28,19 +28,19 @@ To run the document summarizer app, you'll need to set up a virtual environment 
       python -m venv .venv
       ```
 
-5. Activate the virtual environment:
+4. Activate the virtual environment:
 
-        ```bash
-        venv\Scripts\activate.bat
-        ```
+   ```bash
+   venv\Scripts\activate.bat
+   ```
 
-6. Install the required dependencies:
+5. Install the required dependencies:
 
     ```bash
     pip install -r requirements.txt
     ```
 
-7. Run the app:
+6. Run the app:
 
     ```bash
     python app.py
