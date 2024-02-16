@@ -23,8 +23,6 @@ To run the document summarizer app, you'll need to set up a virtual environment 
     ```
 
 3. Create a virtual environment:
-
-    - On Windows:
       
       ```bash
       python -m venv .venv
