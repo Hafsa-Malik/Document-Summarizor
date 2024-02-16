@@ -30,8 +30,6 @@ To run the document summarizer app, you'll need to set up a virtual environment 
 
 5. Activate the virtual environment:
 
-    - On Windows:
-
         ```bash
         venv\Scripts\activate.bat
         ```
